@@ -11,7 +11,7 @@ int main() {
 
   /* This is exactly the same as above:
 
-  for (int k{}; i < 10; ++k) {
+  for (int k{}; k < 10; ++k) {
     if (k % 2 == 0) {
       std::cout << k << '\n';
     }
