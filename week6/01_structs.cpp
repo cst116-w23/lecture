@@ -1,5 +1,7 @@
 #include <iostream>
 
+// UDT: User Defined Types
+// In C:  these are called "Plain Ol' Bags of Data" aka PODs
 struct Rect {
   int x{};
   int y{};
